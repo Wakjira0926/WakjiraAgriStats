@@ -1,0 +1,22 @@
+Package: WakjiraAgriStats
+Type: Package
+Title: Agricultural Experimental Design and ANOVA Toolkit
+Version: 0.0.1
+Authors@R: 
+    person("Wakjira", "Tesfahun", email = "wakjiratesfahun@gmail.com", role = c("aut", "cre"))
+Description: Tools for agricultural experimental designs including
+    Completely Randomized Design (CRD), Randomized Complete Block Design (RCBD),
+    Latin Square, factorial, split-plot, split-split, strip-plot designs,
+    ANOVA, assumption diagnostics, and mean separation methods.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: R (>= 4.0.0)
+Imports:
+    car,
+    agricolae,
+    nortest,
+    ggplot2,
+    lme4,
+    MASS
