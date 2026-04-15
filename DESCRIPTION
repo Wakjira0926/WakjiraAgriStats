@@ -20,3 +20,5 @@ Imports:
     ggplot2,
     lme4,
     MASS
+URL: https://github.com/Wakjira0926/WakjiraAgriStats
+BugReports: https://github.com/Wakjira0926/WakjiraAgriStats/issues
